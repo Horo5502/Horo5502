@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 🔭 VRChat Creator Docs非公式日本語翻訳サイトを作成中!  
 🔭 I'm currently working on unofficial VRChat Creator Docs Japanese translation site!
 
-英語勉強中だから英文は少しおかしいところがあるかもしれません...
+英語勉強中だから英文は少しおかしいところがあるかもしれません...  
 I'm now studying English, so my English sentences might be a bit weird...
 
 マイクラのプラグインが __ちょっとだけ__ 書けるよ!  
 I can code Minecraft Plugin __just a bit__!
 
-3Dに関する勉強がしたい(特にシェーダー)
+3Dに関する勉強がしたい(特にシェーダー)  
 I want to learn 3D tech(especially shader).
