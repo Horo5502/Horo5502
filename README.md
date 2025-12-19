@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I can code Minecraft Plugin __just a bit__!
 
 3Dに関する勉強がしたい(特にシェーダー)  
-I want to learn 3D tech(especially shader).
+I want to learn 3D technology(especially shader).
 
 英語は勉強途中なので、私の書いた英文には少しおかしいところがあるかもしれません...  
-I'm currently studying English, so my English sentences might be a bit weird...
+I'm currently studying English, so my English might sound a little weird...
