@@ -1,4 +1,4 @@
-### Hi there 👋
+## About Me👀
 
 <!--
 **Horo5502/Horo5502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-🔭 VRChat Creator Docs非公式日本語翻訳サイトを作成中!  
-🔭 I'm currently working on unofficial VRChat Creator Docs Japanese translation site!
--->
 
-マイクラのプラグインが __ちょっとだけ__ 書けるよ!  
-I can code Minecraft Plugin __just a bit__!
+マインクラフトのプラグインの開発経験があります。そのため一番書き慣れている言語はJavaです。  
+I have experience developing Minecraft plugins. So I'm familiar with Java the most.
 
-3Dに関する勉強がしたい(特にシェーダー)  
-I want to learn 3D technology(especially shader).
+今は主にシェーダーの技術に興味があります。特にレイマーチング。  
+Now I mainly have an interest in shader technologies. Especially raymarching.
 
-英語は勉強途中なので、私の書いた英文には少しおかしいところがあるかもしれません...  
-I'm currently studying English, so my English might sound a little weird...
+最近はWeb技術も勉強中です。ReactとかNext.jsとか...  
+I've recently started learning Web technology such as React or Next.js.
+
+物理学科の学生です。  
+I'm a physics student.
+
+---
+私が書いた記事:  
+The articles I wrote:  
+https://zenn.dev/h0r0
+
+Shadertoy:  
+https://www.shadertoy.com/user/h0r0
