@@ -24,8 +24,21 @@ Now I mainly have an interest in shader technologies. Especially raymarching.
 最近はWeb技術も勉強中です。ReactとかNext.jsとか...  
 I've recently started learning Web technology such as React or Next.js.
 
+Geometry DashのMODを開発してみたいです。  
+I want to develop a MOD for Geomtry Dash someday.
+
 物理学科の学生です。  
 I'm a physics student.
+
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=java,maven,unity,p5js,py,cs,powershell,bash,ubuntu,vim,react,cpp&theme=light)](https://skillicons.dev)  
+more experienced ←-------------------- --------------------→ less experienced  
+java, maven, unity, p5.js, python, C#, powershell, bash, ubuntu, vim, react, C++
+
+## Interests
+[![My Skills](https://skillicons.dev/icons?i=blender,go,obsidian,mysql,c,cmake,dotnet,gcp,aws,azure&theme=light)](https://skillicons.dev)  
+more interest ←-------------------- --------------------→ less interest  
+blender, go, obsidian, mysql, c, cmake, .NET, GCP, AWS, azure
 
 ---
 私が書いた記事:  
