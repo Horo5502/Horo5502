@@ -31,9 +31,9 @@ I want to develop a MOD for Geomtry Dash someday.
 I'm a physics student.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,maven,unity,p5js,py,cs,powershell,bash,ubuntu,vim,react,cpp&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,maven,unity,p5js,py,cs,powershell,bash,vim,react,cpp&theme=light)](https://skillicons.dev)  
 more experienced ←-------------------- --------------------→ less experienced  
-java, maven, unity, p5.js, python, C#, powershell, bash, ubuntu, vim, react, C++
+java, maven, unity, p5.js, python, C#, powershell, bash, vim, react, C++
 
 ## Interests
 [![My Skills](https://skillicons.dev/icons?i=blender,go,obsidian,mysql,c,cmake,dotnet,gcp,aws,azure&theme=light)](https://skillicons.dev)  
